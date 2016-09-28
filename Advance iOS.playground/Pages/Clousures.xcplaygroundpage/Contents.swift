@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 //: Playground - noun: a place where people can play
 // Closures
 
@@ -30,43 +32,4 @@ calcualte(a: 5, b: 3, calulateFunction: {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//: [Next](@next)

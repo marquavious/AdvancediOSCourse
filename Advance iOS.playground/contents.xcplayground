@@ -3,5 +3,6 @@
     <pages>
         <page name='Generics'/>
         <page name='WeatherApiWrapper'/>
+        <page name='Clousures'/>
     </pages>
 </playground>
