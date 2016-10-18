@@ -17,8 +17,8 @@ func switchString<T>(array: [T]) -> [T] {
 
 }
 
-///
-let array = [1,2,3,4,5,6,7]
+// Added more items to your array. FanisaK 
+let array = [1,2,3,4,5,6,7,8,9]
 switchString(array: array)
 
 
